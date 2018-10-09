@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
         btnShowToast.setOnClickListener {
             Log.i(TAG, "Button is clicked")
-            showToast("Button is clicked")
+            showToast(resources.getString(R.string.btn_clicked))
         }
 
         btnSendToNextActivity.setOnClickListener {

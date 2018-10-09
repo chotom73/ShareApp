@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ShareApp</string>
-    <string name="btn_show_toast">Toast </string>
+    <string name="btn_show_toast">Toast 보여주기</string>
+    <string name="enter_message">메세지 입력</string>
+    <string name="send_data">다음 액티비티에 데이터 보내게</string>
+    <string name="share_other">다른 앱과 공유</string>
+    <string name="show_my_hobbies">나의 취미 보여주기</string>
+    <string name="btn_clicked">버튼이 클릭됨</string>
 </resources>
